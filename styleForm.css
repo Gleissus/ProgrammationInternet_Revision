@@ -62,3 +62,9 @@ input[type="submit"]:hover {
     display: block;
     margin-top: 5px;
 }
+
+
+.success {
+    border: 2px solid green;
+}
+
